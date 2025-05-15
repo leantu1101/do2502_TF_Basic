@@ -1,0 +1,1 @@
+availability_zone = ["eu-west-3a", "eu-west-3b", "eu-west-3c"]
